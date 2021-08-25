@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "3a3b92adf2b79310",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec31446104701ae3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Syllabus.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "601a3c05ec3ed0db",
+    "type": "split",
+    "children": [
+      {
+        "id": "2366466b7a803a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a908e30748d7c9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d9541edd64060c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea6ce1d362fe3f8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac78a8b2197affe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb7087b373be7a88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Syllabus.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7dcb3efb936a054f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Syllabus.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ec31446104701ae3",
+  "lastOpenFiles": [
+    "Syllabus.md",
+    "Course reading list.md",
+    "Untitled.md",
+    "Discussions.md",
+    "Crotty_1998_Chapter 1- Introduction.md",
+    "Theory Family Tree.md",
+    "Epistemology.md",
+    "Ethnography.md",
+    "Method.md",
+    "Methodology.md"
+  ]
+}

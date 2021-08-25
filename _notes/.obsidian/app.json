@@ -1,0 +1,10 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_notes",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "assets/img",
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false
+}
