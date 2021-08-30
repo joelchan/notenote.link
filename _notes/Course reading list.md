@@ -21,7 +21,7 @@ Chapter 3: Science as an Approach to Understanding. In Jaccard, J., & Jacoby, J.
 [[Jaccard_2020_Chapter 12 - Historically Influential Systems of Thought]]
 Chapter 12: Historically Influential Systems of Thought. In Jaccard, J., & Jacoby, J. (2020). Theory Construction and Model-Building Skills: A Practical Guide for Social Scientists (2nd edition). New York: The Guilford Press. 
 
-[[Gaver_2014 _Science and Design- The implications of different forms of accountability]]
+[[Gaver_2014_Science and Design-The implications of different forms of accountability]]
 Gaver, W. “Science and Design: The Implications of Different Forms of Accountability.” In Olson, J. S., & Kellogg, W. A. (Eds.). (2014). Ways of Knowing in HCI (2014 edition). New York: Springer. 
 
 [[Henrich et al_2010_The weirdest people in the world]]

@@ -26,7 +26,7 @@ Opening Q: How do we know a system for knowing is valid? What is one example of 
 - [[Crotty_1998_Chapter 1- Introduction]]
 - [[Jaccard_2020_Chapter 3 - Science as an approach to understanding]]
 - [[Jaccard_2020_Chapter 12 - Historically Influential Systems of Thought]]
-- [[Gaver_2014 _Science and Design- The implications of different forms of accountability]]
+- [[Gaver_2014_Science and Design-The implications of different forms of accountability]]
 - [[Henrich et al_2010_The weirdest people in the world]]
 
 #### Discussion questions and notes
