@@ -10,6 +10,8 @@ PDFs for most readings are available in the [ELMS files space](https://umd.instr
 
 ### Week 1. Defining Science (8/30)
 
+Discussion notes in [[Week 1 - Defining science]]
+
 [[Crotty_1998_Chapter 1- Introduction]]
 Chapter 1: Introduction. In Crotty, M. J. (1998). The Foundations of Social Research. London ; Thousand Oaks, Calif: SAGE Publications Ltd. 
 
@@ -103,6 +105,7 @@ Marwick, A. E., & Boyd, D. (2018). Privacy at the Margins| Understanding Privacy
 
 Shneiderman, B. (2000). Universal usability. Commun. ACM, 43(5), 84–91.
 
+[[Ackerman_2000_The Intellectual Challenge of CSCW]]
 Ackerman, M.S. 2000. “The Intellectual Challenge of CSCW: The Gap Between Social Requirements and Technical Feasibility.” Human-Computer Interaction 15, nos. 2/3: 179-203. 
 
 Grudin, J. 2012. “A Moving Target—The Evolution of Human-Computer Interaction,” In Human-Computer Interaction Handbook (3rd Edition), Taylor & Francis.
@@ -139,6 +142,7 @@ Walther, J. B. (1996). Computer-mediated communication: Impersonal, interpersona
 
 Olson, G.M. and J.S. Olson. 2000. “Distance Matters.” Human-Computer Interaction 15, no. 2: 139-78. 
 
+[[Halverson_2002_Activity theory and distributed cognition]]
 Halverson, C. A. (2002). Activity Theory and Distributed Cognition: Or What Does CSCW Need to DO with Theories? Computer Supported Cooperative Work (CSCW), 11(1), 243–267. https://doi.org/10.1023/A:1015298005381
 
 Crowston, K., Rubleske, J., & Howison, J. (2004). Coordination Theory: A Ten-Year Retrospective. In P. Zhang & D. Galletta (Eds.), _Human-Computer Interaction in Management Information Systems_ (pp. 120–138). M.E. Sharpe.

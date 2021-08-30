@@ -1,0 +1,46 @@
+From Epistemological Bingo
+
+- The act of transcribing speech (or other semiotic acts) commits a researcher’s belief system to their research process (Ochs, 1979).
+- If you can't measure it you can't improve it (Lord Kelvin). Discovering the limits of systems requires a build-evaluate-theorize-build cycle, in which the evaluation leads to testable theorizing about how things could be improved.
+- Communication is multimodal and includes speech, prosody, gesture, gaze, etc. (Kress, 2009).
+- Language and other communication systems have evolved to meet their functional needs rather than to some underlying structure (Halliday, 1961).
+- How failure will be paired with feedback is a design choice that needs to be developed early and iterated often.
+- Learning occurs socially when those more experienced structure or “scaffold” the activity for novice learners (Vygotsky, 1978).
+- Rather than being solely individual, cognition is often distributed among many individuals in a social system with shared technologies (Hutchins, 1995).
+- A community of practice (CoP) involves a shared interest or vocation where members learn the practice from other members’ activities (Lave & Wenger 1991).
+- All systems that we make are "sociotechnical": we must consider the context and culture of usage to design well.
+- Descriptive linguistics (learning how people actually use language by looking at tons of examples) is often more effective for building language technology than normative linguistics (human-created descriptions such as formal grammatical systems), particularly when large numbers of examples are available.
+- People do not use only formal sources of information -- much of our information comes from informal sources, such as family members and friends, and people often find such information to be extremely valuable (Dervin, 1976).
+- Machines themselves are not intelligent. Modern deep learning approaches to AI achieve the appearance of intelligence by learning from (intelligent, but also sometimes flawed) human behavior.
+- Meaning in any written or spoken communication is not limited to formal rules, but significantly influenced by context (Mey, 1993).
+- More information is not always better (Dervin, 1976).
+- People like to get information from people like them (Case, 2007; Dervin, 2005; Harris & Dewdney, 1994).
+- Technologies are socially constructed, but social systems are also shaped by their technologies (W. Bijker).
+- People frequently try to minimize the amount of effort they'll have to expend on a given task. For example, people often use the most convenient and accessible source(s), even when they may not be the most knowledgeable or credible ones (Zipf 1949).
+- Expertise comes with blind spots about the learning process the expert just went through, and/or about the content itself. 
+- Analogical relations exist across seemingly disparate cultural domains, meaning that set of cultural logics in one area of society reverberate across others. By closely examining any one of these, we learn something about the others.
+- Distributed or situated cognition: thinking isn't confined to what's in our skulls. Thinking work is *actually done* by a combination of what's in our skulls and what's in the world (e.g., tools, the situation).
+- Privacy preferences are not individual, but instead are shared reactions to information norms in social contexts (H. Nissenbaum). 
+- Learning requires (physical) moving in new ways. Gestures often contain unique information not included in speech.
+- Lots of important processes are hard to formally model or study experimentally - we need other methods like qualitative inquiry, design-based inquiry to observe them.
+- People and their information environments co-adapt; that is, people adapt their information-seeking strategies, as well as their environments, with the ultimate goal of maximizing the amount of useful information they gain per unit cost (Pirolli & Card, 1999). 
+- Boundary Objects are information artifacts than can connect different communities, usually through negotiation and collaboration (Star and Griesemer, 1989). 
+- We shape our future, but not without the influence of existing circumstances and the weight of our history (K. Marx).
+- Modeling human cognitive processes (e.g., perception, reasoning, memory) can be done in Bayesian probabilistic terms (T. Griffiths, C. Kemp and J. Tenenbaum 2008).
+- Both humans (people and organizations) and non-humans (technologies) co-exist in a social network and have agency (Latour, 2005).
+- Whiteness is an important and overlooked social construct that shapes our professional interactions and information collections (K. Crenshaw).
+- People's queries evolve and their search processes frequently involve bit-at-a-time retrieval (rather than just a one-shot query). They frequently use a range of search techniques and consult a number of different types of sources throughout their search for information (Bates, 1989). 
+- In complex social systems, meaning systems exist at different ecosocial levels that tend to alternate between qualitative and quantitative (Lemke, 2000).
+- Formal models make our theories better (either directly, by being increasingly correct/precise, or indirectly, by forcing us to be more explicit).
+- To create systems that delight, we should train our systems not only to do well on a "test collection" model of a problem, but also to do well on real tasks with real people. This requires large numbers of users, the ability to observe their behavior, and some theory to tell us which behavioral signals we want to improve and why.
+- Information poverty is produced by cultural norms that lead to avoidance of useful and important information (E. Chapman).
+- Embodied or hot cognition: thinking is not "cold" - physical/somatic/emotional processes are tightly integrated and causally effectual. Ignoring the fact that we have bodies and emotions results in poor theories.
+- Technologies have politics (L. Winner).
+- Social and contextual conditions contribute to a range of defensive information behaviors and contribute to information marginalization (A. Gibson & J. Martin).
+- To close cultural and economic gaps faced by youth from low socio-economic backgrounds and achieve equity, it is important to connect teens' interests and relationships with real-life opportunities, and to connect learning across different contexts (home, school, out-of school such as libraries, online technologies).
+- Human activities are usually historical and cultural events where artifacts mediate actions to produce specific outcomes (Engeström, 1999).
+- People interpret what is going on around their world through a framework that they take for granted (Goffman, 1974).
+- To truly understand a person's information seeking and use, you have to have knowledge about their situation (Dervin, 1976).
+- The development of information systems reifies the beliefs and worldviews of their developers (Piety, 2006). 
+- Formal theories need to be translated to be useful for design (even if they are scientifically useful), and this is hard intellectual work. There are almost always big gaps between theoretical and design implications
+- All cognitive processes can (in principle) be usefully modeled as computation.

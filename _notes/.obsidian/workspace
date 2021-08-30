@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Syllabus.md",
-            "mode": "source"
+            "file": "Course reading list.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Course reading list.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syllabus.md"
+                "file": "Course reading list.md"
               }
             }
           }
@@ -98,10 +98,10 @@
   },
   "active": "ec31446104701ae3",
   "lastOpenFiles": [
+    "Course reading list.md",
     "Syllabus.md",
     "Week 1 - Defining science.md",
     "Discussions.md",
-    "Course reading list.md",
     "Week 1.md",
     "Untitled.md",
     "Crotty_1998_Chapter 1- Introduction.md",
