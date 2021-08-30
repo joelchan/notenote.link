@@ -6,6 +6,12 @@ season: summer
 
 # INST888: Theoretical and Epistemological Foundations in Information Studies
 
+**Course instructor**: Joel Chan 
+
+**Office Hours**: Tuesdays, 11:00-12:30 eastern, In-person (HBK 2118E) or Zoom (please email to schedule)
+
+**Email**: joelchan@umd.edu
+
 ## COURSE DESCRIPTION
 
 Pursuing a doctorate in information studies involves the scholarly examination of the interaction between people, information, technology, and society. There are, however, as many ways to examine the interaction of people, information, technology and society as there are researchers, and many ways of understanding what counts as evidence and knowledge about information in society. 
@@ -36,9 +42,10 @@ Because we will cover a large number of ideas, the course is a reading-intensive
 
 Course Website on ELMS
 
-Course online notes: https://optimistic-easley-634cb9.netlify.app/
+Course online notes: (you're already here! :)
 
 Jaccard, J., & Jacoby, J. (2020). Theory Construction and Model-Building Skills: A Practical Guide for Social Scientists (2nd Ed.). New York: The Guilford Press.
+*note: if you can't get the 2nd edition, the 1st edition should work well enough; contact me if you have concerns and I can wrangle access for you*
   
 Crotty, M. J. (1998). The Foundations of Social Research. London ; Thousand Oaks, Calif: SAGE Publications Ltd..
 
@@ -57,7 +64,22 @@ Your final grade will be calculated based on the weighting of the following cour
 
 ### Attendance and active participation in class sessions (25% of grade). 
 
+10 pts per class, 120 pts total.
+
 You are expected to participate actively in class discussions, and in asynchronous online discussions, as you are able. 
+
+Dan Greene, another iSchool professor who you are spending this semester with in INST800, has some helpful notes for understanding what active participation looks like, which I'll quote here (with a small modification for the point structure) to reinforce the wonderfully stated ideas:
+
+> Like most doctoral seminars, this class does not work without regular, considered, and collegial participation from everyone involved. The instructor will manage discussion and provide context when necessary but by and large will not lecture. Please bring copies of all readings to class every day (print or digital), along with your notes on them.  Students must complete all assigned readings prior to the start of class to effectively participate in class. 
+
+> Effective participation can look like: 
+> - Asking open-ended questions to seek clarity or prompt discussion
+> - Quoting or paraphrasing a reading to make a point
+> - Collaborating on small-group activities   
+> - Providing your analysis of an issue or reading, or responding to a colleague’s 
+> - Giving context colleagues may need on a particular point of discussion
+
+> It is not necessary to master every point of every reading to effectively participate. Indeed, it is sometimes most helpful to arrive to class with questions in mind. If you show up and participate in a way that evidences your active engagement with those readings, you will receive 10 points for the day. Only 12 of our 14 class sessions are graded for participation, meaning you have two “freebie” days. These can be used in lieu of providing an explanation for an excused absence, or just as a moment to recharge during a crisis year. There is no need to contact the instructor to request permission to use a freebie day.**
 
 ### Intellectual History (Presentation, 20% of grade): 
 
@@ -87,7 +109,13 @@ Please post a link to the Google Doc to the Weekly Discussion thread by 9 am eas
 
 ### Epistemological Bingo (Credit/no credit, 15% of grade): 
 
-Attend at least **four** talks hosted by the iSchool, elsewhere on campus, or within your broader scholarly community (e.g. virtual conference talks, symposia, etc). You will be assigned a bingo card collaboratively created by iSchool faculty and made up of theories and concepts common in the many disciplines that make up iSchool research. Whenever a guest lecture uses a concept or makes an assumption listed on your card, mark the square, and provide a 2-3 sentence summary of how they used that concept or assumption in their work. Sources of talks include:  
+Attend at least **four** talks hosted by the iSchool, elsewhere on campus, or within your broader scholarly community (e.g. virtual conference talks, symposia, etc). 
+
+You will be [assigned](https://umd.instructure.com/courses/1312227/pages/epistemological-bingo-assignments) a bingo card collaboratively created by iSchool faculty and made up of theories and concepts common in the many disciplines that make up iSchool research. 
+
+Whenever a guest lecture uses a concept or makes an assumption listed on your card, mark the square, and provide a 2-3 sentence summary of how they used that concept or assumption in their work. Please also grab a concrete quote or screenshot if you can so we can learn from it!
+
+Sources of talks include:  
 
 -   HCIL, CASCI, CLIP & DCIC talks
 -   Job candidate talks 
@@ -96,9 +124,9 @@ Attend at least **four** talks hosted by the iSchool, elsewhere on campus, or wi
 -   Dean’s lecture series
 -   Conferences and symposia  
     
-Talks elsewhere on campus or at conferences are also permitted, although attending talks outside of the iSchool might make it harder to get bingo. 
+Talks elsewhere on campus or at conferences are also permitted, although it is possible that attending talks outside of the iSchool might make it harder to get bingo. 
 
-We will discuss your progress on your bingo cards at class sessions throughout the semester, and scans/photos of the cards with the list of four talks you attended are due on December 13. The first person to bingo will win everlasting fame and bragging rights. 
+We will discuss your progress on your bingo cards at class sessions throughout the semester, and scans/photos/PDFs of the cards with the list of four talks you attended are due on December 13. The first person to bingo will win everlasting fame and bragging rights. 
 
 ### Mapping Your Theoretical Framework: Essay (Due December 13. 25% of grade): 
 

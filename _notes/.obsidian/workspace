@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea6ce1d362fe3f8f",
@@ -100,14 +99,14 @@
   "active": "ec31446104701ae3",
   "lastOpenFiles": [
     "Syllabus.md",
-    "Course reading list.md",
-    "Untitled.md",
+    "Week 1 - Defining science.md",
     "Discussions.md",
+    "Course reading list.md",
+    "Week 1.md",
+    "Untitled.md",
     "Crotty_1998_Chapter 1- Introduction.md",
     "Theory Family Tree.md",
     "Epistemology.md",
-    "Ethnography.md",
-    "Method.md",
-    "Methodology.md"
+    "Ethnography.md"
   ]
 }

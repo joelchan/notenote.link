@@ -4,18 +4,20 @@ tags: admin
 season: summer
 ---
 
+PDFs for most readings are available in the [ELMS files space](https://umd.instructure.com/courses/1312227/files/folder/Readings). If you are not able to find a PDF or copy, it is a good idea to learn how to use UMD's [interlibrary loan service](https://www.lib.umd.edu/access/ill).
+
 ## Exploring epistemology I
 
-### Week 1. Defining Science
+### Week 1. Defining Science (8/30)
 
 [[Crotty_1998_Chapter 1- Introduction]]
 Chapter 1: Introduction. In Crotty, M. J. (1998). The Foundations of Social Research. London ; Thousand Oaks, Calif: SAGE Publications Ltd. 
 
 [[Jaccard_2020_Chapter 3 - Science as an approach to understanding]]
-Chapter 3: Science as an Approach to Understanding. In Jaccard, J., & Jacoby, J. (2009). Theory Construction and Model-Building Skills: A Practical Guide for Social Scientists (1 edition). New York: The Guilford Press. 
+Chapter 3: Science as an Approach to Understanding. In Jaccard, J., & Jacoby, J. (2020). Theory Construction and Model-Building Skills: A Practical Guide for Social Scientists (2nd edition). New York: The Guilford Press. 
 
 [[Jaccard_2020_Chapter 12 - Historically Influential Systems of Thought]]
-Chapter 11: Historically Influential Systems of Thought. In Jaccard, J., & Jacoby, J. (2009). Theory Construction and Model-Building Skills: A Practical Guide for Social Scientists (1 edition). New York: The Guilford Press. 
+Chapter 12: Historically Influential Systems of Thought. In Jaccard, J., & Jacoby, J. (2020). Theory Construction and Model-Building Skills: A Practical Guide for Social Scientists (2nd edition). New York: The Guilford Press. 
 
 [[Gaver_2014 _Science and Design- The implications of different forms of accountability]]
 Gaver, W. “Science and Design: The Implications of Different Forms of Accountability.” In Olson, J. S., & Kellogg, W. A. (Eds.). (2014). Ways of Knowing in HCI (2014 edition). New York: Springer. 
@@ -23,7 +25,7 @@ Gaver, W. “Science and Design: The Implications of Different Forms of Accounta
 [[Henrich et al_2010_The weirdest people in the world]]
 Henrich et al. 2010. “The weirdest people in the world?” Behavioral and Brain Sciences, 33: 61-135. 
 
-### Week 2. Contrasting Epistemologies
+### Week 2. Contrasting Epistemologies (9/13)
 
 Chapter 2: Positivism. In Crotty, M. J. (1998). The Foundations of Social Research. London ; Thousand Oaks, Calif: SAGE Publications Ltd.
 
@@ -37,7 +39,7 @@ Harding, S. (2009). “Standpoint Theories: Productively Controversial.” Hypat
 
 ## Exploring Information Studies Phenomena
 
-### Week 3. Data, Knowledge, and Information
+### Week 3. Data, Knowledge, and Information (9/20)
 
 Buckland, M. K. (1991). Information as thing. Journal of the American Society for Information Science, 44(5), 351–360.
 
@@ -49,7 +51,7 @@ Buolamwini, J., & Gebru, T. (2018). Gender Shades: Intersectional Accuracy Dispa
 
 D’Ignazio, C., & Klein, L. (2018). Chapter One: Bring Back the Bodies. In Data Feminism. PubPub. [https://mitpressonpubpub.mitpress.mit.edu/pub/zrlj0jqb/release/6](https://mitpressonpubpub.mitpress.mit.edu/pub/zrlj0jqb/release/6) 
 
-### Week 4. Information Behavior and Information Retrieval
+### Week 4. Information Behavior and Information Retrieval (9/27)
 
 Chatman, E. A. (1991). Life in a small world: Applicability of gratification theory to information-seeking behavior. Journal of the American Society for Information Science, 42(6), 438–449. [https://doi.org/10.1002/(SICI)1097-4571(199107)42:6<438::AID-ASI6>3.0.CO;2-B](https://doi.org/10.1002/(SICI)1097-4571(199107)42:6%3c438::AID-ASI6%3e3.0.CO;2-B)
 
@@ -61,11 +63,11 @@ Burnett, G., & Jaeger, P. T. (2012). Information worlds: Social context and info
 
 Ndumu, A. (2020). Toward a new understanding of immigrant information behavior: A survey study on information access and information overload among US Black diasporic immigrants. Journal of Documentation, 76(4), 869–891. [https://doi.org/10.1108/JD-04-2019-0066](https://doi.org/10.1108/JD-04-2019-0066) 
 
-### Week 5: Information Literacy and Misinformation
+### Week 5: Information Literacy and Misinformation (10/4)
 
 Limberg, L., & Sundin, O. (2006). Teaching information seeking: Relating information literacy education to theories of information behaviour. Information Research: An International Electronic Journal, 12(1), paper 280. Available: [http://www.informationr.net/ir/12-1/paper280.html](http://www.informationr.net/ir/12-1/paper280.html)
 
-Chevillotte, S. (2010). Information literacy. In M. J. Bates & M. N. Maack (Eds.), Encyclopedia of Library and Information Sciences (3rd ed., pp. 2421-2428). Boca Raton, FL: CRC Press. #interlibraryloan 
+Chevillotte, S. (2010). Information literacy. In M. J. Bates & M. N. Maack (Eds.), Encyclopedia of Library and Information Sciences (3rd ed., pp. 2421-2428). Boca Raton, FL: CRC Press. 
 
 Cooke, N. A. (2017). Posttruth, Truthiness, and Alternative Facts: Information Behavior and Critical Information Consumption for a New Age. The Library Quarterly, 87(3), 211–221. [https://doi.org/10.1086/692298](https://doi.org/10.1086/692298) 
 
@@ -73,7 +75,7 @@ Shu, Kai, Amy Sliva, Suhang Wang, Jiliang Tang, and Huan Liu. (2017). "Fake news
 
 Lazer, David MJ, Matthew A. Baum, Yochai Benkler, Adam J. Berinsky, Kelly M. Greenhill, Filippo Menczer, Miriam J. Metzger et al. (2018). "The science of fake news." Science 359, no. 6380: 1094-1096.
 
-### Week 6: Information Infrastructures
+### Week 6: Information Infrastructures (10/11)
 
 Bowker, G.C. and S.L. Star. 2000. “Some Tricks of the Trade in Analyzing Classification,” In Sorting Things Out: Classification and Its Consequences. Cambridge: MIT Press, 33-50; 195-225. 
 
@@ -85,11 +87,11 @@ Lesk, M. 2016. “The Convergence of Curation.” Handbook of Science and Techno
 
 Noble, S. (2018). Introduction, Algorithms of Oppression: How Search Engines Reinforce Racism (1 edition). New York: NYU Press.
 
-### Week 7: Information Ethics
+### Week 7: Information Ethics (10/18)
 
-Capurro, R. (1985). Moral issues in information science. Journal of Information Science, 11, 113–123. --> #interlibraryloan
+Capurro, R. (1985). Moral issues in information science. Journal of Information Science, 11, 113–123.
 
-Agre, P. E. (1994). Surveillance and capture: Two models of privacy. The Information Society, 10(2), 101–127. --> #interlibraryloan
+Agre, P. E. (1994). Surveillance and capture: Two models of privacy. The Information Society, 10(2), 101–127.
 
 Christen, Kimberly. “Does Information Really Want to Be Free? Indigenous Knowledge Systems and the Question of Openness.” International Journal of Communication 6, no. 0 (November 30, 2012): 24.
 
@@ -97,7 +99,7 @@ Floridi, L., & Taddeo, M. (2016). What is data ethics? Philosophical Transaction
 
 Marwick, A. E., & Boyd, D. (2018). Privacy at the Margins| Understanding Privacy at the Margins—Introduction. International Journal of Communication, 12(0), 9.
 
-### Week 8: Design, Information and HCI
+### Week 8: Design, Information and HCI (10/25)
 
 Shneiderman, B. (2000). Universal usability. Commun. ACM, 43(5), 84–91.
 
@@ -109,7 +111,7 @@ Norman, D.A. 2013. Chapter 1. The Design of Everyday Things [Revised and Expande
 
 Harrington, C., Erete, S., & Piper, A. M. (2019). Deconstructing Community-Based Collaborative Design: Towards More Equitable Participatory Design Engagements. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 216:1–216:25. [https://doi.org/10.1145/3359318](https://doi.org/10.1145/3359318) 
 
-### Week 9: Design and Power
+### Week 9: Design and Power (11/1)
 
 Bardzell, S. 2010. “Feminist HCI: Taking Stock and Outlining an Agenda for Design.” Proceedings of the SIGCHI Conference on Human factors in Computing Systems. ACM.
 
@@ -119,7 +121,7 @@ Dombrowski, L., Harmon, E., & Fox, S. (2016). Social Justice-Oriented Interactio
 
 Ogbonnaya-Ogburu, I. F., Smith, A. D. R., To, A., & Toyama, K. (2020). Critical Race Theory for HCI. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1–16. [https://doi.org/10.1145/3313831.3376392](https://doi.org/10.1145/3313831.3376392)
 
-### Week 10: Sociotechnical Perspectives
+### Week 10: Sociotechnical Perspectives (11/8)
 
 Bruno Latour, “Technology is Society Made Durable,” in John Law, ed. A Sociology of Monsters: Essays on Power, Technology, and Domination (Routledge: London, 1991): 103-131.
 
@@ -131,7 +133,7 @@ Sawyer, S., & Jarrahi, M. (2014). The sociotechnical perspective. In A. Tucker &
 
 Hollin, G., Forsyth, I., Giraud, E., & Potts, T. (2017). (Dis)entangling Barad: Materialisms and ethics. Social Studies of Science, 47(6), 918–941. [https://doi.org/10/gbxm4x](https://doi.org/10/gbxm4x)
 
-### Week 11: Information, Cooperation, and Teams
+### Week 11: Information, Cooperation, and Teams (11/15)
 
 Walther, J. B. (1996). Computer-mediated communication: Impersonal, interpersonal, and hyperpersonal interaction. Communication research, 23(1), 3-43.
 
@@ -143,7 +145,7 @@ Crowston, K., Rubleske, J., & Howison, J. (2004). Coordination Theory: A Ten-Yea
 
 Robert, L. P., Dennis, A.R. and Ahuja, M. (2018). Differences are Different: Examining the Effects of Communication Media on the Impacts of Racial and Gender Diversity in Decision-Making Teams, Information Systems Research (ISR), 29(3), pp. 525-545.
 
-### Week 12: Studying Organizations and Information
+### Week 12: Studying Organizations and Information (11/29)
 
 Orlikowski, W. 2000. “Using Technology and Constituting Structures: A Practice Lens for Studying Technology in Organizations,” Organization Science 11(4): 404-428. 
 
@@ -151,11 +153,11 @@ Armstrong, D. J., Riemenschneider, C. K., & Giddens, L. G. (2018). The advanceme
 
 Winter, S., & Saunders, C. (2019). The Personal in the Policy Cascade. Journal of the Association for Information Systems, 20(11). [https://doi.org/10.17705/1jais.00582](https://doi.org/10.17705/1jais.00582)
 
-Lawrence, B., & Shah, N. (2020). Homophily: Measures and Meaning. Academy of Management Annals. [https://doi.org/10.5465/annals.2018.0147](https://doi.org/10.5465/annals.2018.0147) #interlibraryloan 
+Lawrence, B., & Shah, N. (2020). Homophily: Measures and Meaning. Academy of Management Annals. [https://doi.org/10.5465/annals.2018.0147](https://doi.org/10.5465/annals.2018.0147) 
 
-### Week 13: Information and Learning
+### Week 13: Information and Learning (12/6)
 
-Nasir, N. S. (2002). Identity, Goals, and Learning: Mathematics in Cultural Practice. Mathematical Thinking and Learning, 4(2–3), 213–247. [https://doi.org/10.1207/S15327833MTL04023_6](https://doi.org/10.1207/S15327833MTL04023_6) #interlibraryloan 
+Nasir, N. S. (2002). Identity, Goals, and Learning: Mathematics in Cultural Practice. Mathematical Thinking and Learning, 4(2–3), 213–247. [https://doi.org/10.1207/S15327833MTL04023_6](https://doi.org/10.1207/S15327833MTL04023_6)
 
 Wilson, M. (2002). Six views of embodied cognition. Psychonomic Bulletin & Review, 9(4), 625–636. [https://doi.org/10.3758/BF03196322](https://doi.org/10.3758/BF03196322)
 
@@ -165,6 +167,6 @@ Clegg, T., & Kolodner, J. (2014). Scientizing and Cooking: Helping Middle-School
 
 ## Exploring Epistemology II
 
-### Week 14: Building your own theory and models
+### Week 14: Building your own theory and models (12/13)
 
-Part III: Frameworks for Theory Construction. In Jaccard, J., & Jacoby, J. (2009). Theory Construction and Model-Building Skills: A Practical Guide for Social Scientists (1 edition). New York: The Guilford Press.
+Part III: Frameworks for Theory Construction. In Jaccard, J., & Jacoby, J. (2020). Theory Construction and Model-Building Skills: A Practical Guide for Social Scientists (2nd edition). New York: The Guilford Press. 
