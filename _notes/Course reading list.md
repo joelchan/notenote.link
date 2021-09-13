@@ -29,14 +29,21 @@ Henrich et al. 2010. “The weirdest people in the world?” Behavioral and Brai
 
 ### Week 2. Contrasting Epistemologies (9/13)
 
+Discussion notes in [[Week 2 - Contrasting Epistemologies]]
+
+[[Crotty_1998_Chapter 2- Positivism]]
 Chapter 2: Positivism. In Crotty, M. J. (1998). The Foundations of Social Research. London ; Thousand Oaks, Calif: SAGE Publications Ltd.
 
+[[Crotty_1998_Chapter 3- Constructionism]]
 Chapter 3: Constructionism. In Crotty, M. J. (1998). The Foundations of Social Research. London ; Thousand Oaks, Calif: SAGE Publications Ltd.
 
+[[Krohn_2019_Interdisciplinary Cases and Disciplinary Knowledge- Epistemic challenges of Interdisciplinary Research]]
 Krohn, W. “Interdisciplinary Cases and Disciplinary Knowledge: Epistemic challenges of Interdisciplinary Research.” In Frodeman, R., Klein, J. T., & Pacheco, R. C. D. S. (Eds.). (2019). The Oxford Handbook of Interdisciplinarity (2 edition). Oxford University Press.
 
+[[Dotson_2015_Inheriting Patricia Hill Collins's Black Feminist epistemology]]
 Dotson, K. (2015). “Inheriting Patricia Hill Collins’s Black Feminist epistemology.” Ethnic and Racial Studies, 38(13), 2322–2328. https://doi.org/10.1080/01419870.2015.1058496
 
+[[Harding_2009_Standpoint Theories]]
 Harding, S. (2009). “Standpoint Theories: Productively Controversial.” Hypatia, 24(4), 192–200. 
 
 ## Exploring Information Studies Phenomena

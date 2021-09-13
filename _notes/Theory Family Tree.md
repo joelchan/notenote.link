@@ -30,7 +30,7 @@ This is the entry point into the theory family tree (graph?), seeded by concepts
 - [[Heuristic inquiry]]
 - [[Action research]]
 - [[Discourse analysis]]
-- [[Feminist standpoint research]]
+- [[Feminist standpoint theory]]
 
 # Methods
 

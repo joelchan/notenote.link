@@ -17,9 +17,9 @@ General forms of evaluation:
 - Consensual validation - "the worth of a particular conceptualization is gauged by the degree of acceptance it is granted by others." (p. 24)
 	- Expert validation (special case of consensual validation) - "decision as to whether a particular conceptualization merits acceptance is determined by selected others who presumably have the knowledge and wisdom to discern what is correct and what is not correct" (p. 24)
 - Internal validation - "application of formal rules of logic to examine the concepts and relationships within a particular conceptual system" (p. 25) - sort of connects to rationalist emphasis on deductive reasoning. Common in mathematics and philosophy. Although there is often a question of how to define axioms in the first place!
-- Systematic empirical validation - "Over the long run, scientific conceptualizations tend to be accepted only to the extent that they have been subjected to rigorous and systematic empirical testing and shown to be useful" (p. 25)
+- Systematic empirical validation - "Over the long run, scientific conceptualizations tend to be accepted only to the extent that they have been subjected to rigorous and systematic empirical testing and shown to be useful" (p. 25) ^326ef7
 
-Jaccard basically argues that science is different (not necessarily better!) by virtue of relying much more heavily on 
+Jaccard basically argues that science is different (not necessarily better!) by virtue of relying much more heavily on systematic empirical validation.
 
 Science is in a sense [[Objectivism\|objectivist]] by definition, to the extent that its practitioners assume that there is more or less direct contact with a "real world" against which we can provide trustworthy, independent tests of our conceptual systems (p. 26)
 
